@@ -1,0 +1,45 @@
+.bg-cover {
+  background-size: cover;
+  background-position: center center;
+}
+
+header {
+  background-image: url(../images/the-urban-landscape-1698285.png);
+}
+
+.customize_btn_1 {
+  background-color: #8A82CC;
+}
+
+.customize_btn_2 {
+  background-color: #FFA782;
+}
+
+.customize_btn_3 {
+  background-color: #F5D005;
+}
+
+.customize_btn_4 {
+  background-color: #559AC8;
+}
+
+.card-img-wrap {
+  height: 155px;
+}
+
+.main_title {
+  color: #8A82CC;
+}
+
+.main-card-body {
+  margin-top: -70px;
+}
+
+.footer_bg {
+  background-color: #559AC8;
+}
+
+.footer-p_color {
+  color: #FFD366;
+}
+/*# sourceMappingURL=style.css.map */

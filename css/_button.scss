@@ -1,0 +1,19 @@
+@mixin btn($color) {
+    background-color: $color;
+}
+
+.customize_btn_1{
+    @include btn(#8A82CC)
+}
+
+.customize_btn_2{
+    @include btn(#FFA782)
+}
+
+.customize_btn_3{
+    @include btn(#F5D005)
+}
+
+.customize_btn_4{
+    @include btn(#559AC8)
+}
