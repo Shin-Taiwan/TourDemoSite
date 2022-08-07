@@ -102,5 +102,3 @@ const cardContent = (data)=>{
          </div>
     </div>`
 }
-
-
